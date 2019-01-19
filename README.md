@@ -1,6 +1,6 @@
 ## 엘리스 데이터사이언티스트 에듀챌린지 - 최종 제출코드
 
-## Python 3.6 활용
+##### Python 3.6 활용
 
 ### ROUND 1: 네이버 영화 Review 감정 분류
   * Input: 영화 Review(Text)
